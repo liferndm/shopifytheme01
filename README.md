@@ -1,0 +1,1 @@
+# Study Shopify Theme Development For the First Time
